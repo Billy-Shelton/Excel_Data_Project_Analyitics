@@ -42,7 +42,7 @@ It includes detailed information on:
 #### Extract
 
 - I first used Power Query to extract the original data (`data_salary_all.xlsx`) and create two queries:
-    - 🗃First one with all the data jobs information.
+    - First one with all the data jobs information.
     - The second listing the skills for each job ID.
 
 #### Transform
@@ -131,7 +131,7 @@ It includes detailed information on:
 
     ![2_Project_Analysis_Screenshot5.png](/0_Resources/Images/2_Project_Analysis_Screenshot5.png)
 
-#### 📃 Power Pivot Menu
+#### Power Pivot Menu
 
 - The Power Pivot menu was used to refine my data model and makes it easy to create measures.
 
@@ -150,11 +150,11 @@ It includes detailed information on:
 
 - Understanding prevalent skills in the industry not only helps professionals stay competitive but also guides training and educational programs to focus on the most impactful technologies.
 
-## 4️⃣ What’s the pay of the top 10 skills?
+## What’s the pay of the top 10 skills?
 
-### 📊 Skill: Advanced Charts (Pivot Chart)
+### Skill: Advanced Charts (Pivot Chart)
 
-#### 📈 PivotChart
+#### PivotChart
 
 - I created a combo PivotChart to plot median salary and skill likelihood (%) from my PivotTable.
     - **Primary Axis:** Median Salary (as a Clustered Column)
